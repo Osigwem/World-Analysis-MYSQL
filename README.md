@@ -7,7 +7,7 @@
 4. [Data Manipulation](#data-manipulation)
 5. [Tools Used](#tools-used)
 6. [Key Insights](#key-insights)
-7. [Example Queries](#example-queries)
+7. [Queries](#queries)
 8. [Creating an EER Diagram](#creating-an-eer-diagram)
 9. [About Me](#about-me)
 10. [License](#license)
