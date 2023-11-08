@@ -44,47 +44,47 @@ The following SQL queries have been performed on the dataset to extract valuable
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/265c7787-7db6-421c-8780-42ed8ff58119">
 
 
-3. Find out the population and life expectancy for people in Argentina (ARG).
+2. Find out the population and life expectancy for people in Argentina (ARG).
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/8e58746d-5867-4778-b484-55b17a53e6b1">
 
    
-5. Using `ORDER BY` and `LIMIT`, determine the country with the highest life expectancy.
+3. Using `ORDER BY` and `LIMIT`, determine the country with the highest life expectancy.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/3b91b0ce-4401-42bb-a95b-2bd457b0f2a9">
 
 
-6. Select 25 cities around the world that start with the letter 'F' in a single SQL query.
+4. Select 25 cities around the world that start with the letter 'F' in a single SQL query.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/004381e7-0c5f-4a40-b518-872cf8a32d6d">
 
 
-7. Create a SQL statement to display columns Id, Name, Population from the city table and limit results to the first 10 rows only.
+5. Create a SQL statement to display columns Id, Name, Population from the city table and limit results to the first 10 rows only.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/a012ee99-f315-4ad1-8fc7-b86108c36c26">
 
 
-8. Create a SQL statement to find only those cities from the city table whose population is larger than 2,000,000.
+6. Create a SQL statement to find only those cities from the city table whose population is larger than 2,000,000.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/dc239731-65c1-493b-847d-f4db568bb1ca">
 
 
-9. Create a SQL statement to find all city names from the city table whose name begins with the "Be" prefix.
+7. Create a SQL statement to find all city names from the city table whose name begins with the "Be" prefix.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/e52d2531-f80f-4670-9d7f-8308dccf2341">
 
 
-10. Create a SQL statement to find only those cities from the city table whose population is between 500,000 and 1,000,000.
+8. Create a SQL statement to find only those cities from the city table whose population is between 500,000 and 1,000,000.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/5a08f610-31fb-45a5-91c2-7fc7c632dd63">
 
     
-12. Create a SQL statement to find a city with the lowest population in the city table.
+9. Create a SQL statement to find a city with the lowest population in the city table.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/64e3aae1-8f0e-411c-acea-3aa447e4ad6b">
 
 
-13. Create a SQL statement to find the capital of Spain (ESP).
+10. Create a SQL statement to find the capital of Spain (ESP).
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/e6fa031b-ba3d-488a-840b-12ced110f875">
 
 
-15. Create a SQL statement to list all the languages spoken in the Caribbean region.
+11. Create a SQL statement to list all the languages spoken in the Caribbean region.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/cb9b004c-464d-4669-a181-765188abbaf2">
 
 
-16. Create a SQL statement to find all cities from the Europe continent.
+11. Create a SQL statement to find all cities from the Europe continent.
 <img width="451" alt="image" src="https://github.com/Osigwem/World-Analysis-MYSQL/assets/146824911/80d015e0-76d2-457c-ad7a-ae0c0eab1f3c">
 
 ## Creating an EER Diagram
